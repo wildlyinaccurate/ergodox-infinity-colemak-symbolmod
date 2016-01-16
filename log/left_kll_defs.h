@@ -27,24 +27,24 @@
 //      /srv/KiiConf/controller/Scan/UARTConnect/capabilities.kll
 //      /srv/KiiConf/controller/Macro/PartialMap/capabilities.kll
 //      /srv/KiiConf/controller/Output/pjrcUSB/capabilities.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/defaultMap.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/leftHand.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/slave1.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/rightHand.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/defaultMap.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/leftHand.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/slave1.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/rightHand.kll
 //      -d
-//      MDErgo1-Default-0.kll
+//      ColemakSymbolModErgo-Default-0.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-1.kll
+//      ColemakSymbolModErgo-Default-1.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-2.kll
+//      ColemakSymbolModErgo-Default-2.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-3.kll
+//      ColemakSymbolModErgo-Default-3.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-4.kll
+//      ColemakSymbolModErgo-Default-4.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    --backend
 //      kiibohd
@@ -68,38 +68,38 @@
 //      /srv/KiiConf/controller/Macro/PartialMap/capabilities.kll
 //    pjrcUSBCapabilities
 //      /srv/KiiConf/controller/Output/pjrcUSB/capabilities.kll
-//    MDErgo1
-//      /srv/KiiConf/controller/Scan/MDErgo1/defaultMap.kll
-//    MDErgo1LeftHand
-//      /srv/KiiConf/controller/Scan/MDErgo1/leftHand.kll
-//    MDErgo1Slave1
-//      /srv/KiiConf/controller/Scan/MDErgo1/slave1.kll
-//    MDErgo1RightHand
-//      /srv/KiiConf/controller/Scan/MDErgo1/rightHand.kll
+//    ColemakSymbolModErgo
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/defaultMap.kll
+//    ColemakSymbolModErgoLeftHand
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/leftHand.kll
+//    ColemakSymbolModErgoSlave1
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/slave1.kll
+//    ColemakSymbolModErgoRightHand
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/rightHand.kll
 // - Default Layer -
-//    MDErgo1
-//      MDErgo1-Default-0.kll
+//    ColemakSymbolModErgo
+//      ColemakSymbolModErgo-Default-0.kll
 //    lcdFuncMap
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 // - Partial Layers -
 //    Layer 1
-//     MDErgo1
-//       MDErgo1-Default-1.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-1.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 2
-//     MDErgo1
-//       MDErgo1-Default-2.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-2.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 3
-//     MDErgo1
-//       MDErgo1-Default-3.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-3.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 4
-//     MDErgo1
-//       MDErgo1-Default-4.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-4.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 

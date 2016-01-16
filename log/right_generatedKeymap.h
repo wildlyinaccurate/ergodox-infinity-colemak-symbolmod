@@ -27,24 +27,24 @@
 //      /srv/KiiConf/controller/Scan/UARTConnect/capabilities.kll
 //      /srv/KiiConf/controller/Macro/PartialMap/capabilities.kll
 //      /srv/KiiConf/controller/Output/pjrcUSB/capabilities.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/defaultMap.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/rightHand.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/slave1.kll
-//      /srv/KiiConf/controller/Scan/MDErgo1/leftHand.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/defaultMap.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/rightHand.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/slave1.kll
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/leftHand.kll
 //      -d
-//      MDErgo1-Default-0.kll
+//      ColemakSymbolModErgo-Default-0.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-1.kll
+//      ColemakSymbolModErgo-Default-1.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-2.kll
+//      ColemakSymbolModErgo-Default-2.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-3.kll
+//      ColemakSymbolModErgo-Default-3.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //      -p
-//      MDErgo1-Default-4.kll
+//      ColemakSymbolModErgo-Default-4.kll
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    --backend
 //      kiibohd
@@ -68,38 +68,38 @@
 //      /srv/KiiConf/controller/Macro/PartialMap/capabilities.kll
 //    pjrcUSBCapabilities
 //      /srv/KiiConf/controller/Output/pjrcUSB/capabilities.kll
-//    MDErgo1
-//      /srv/KiiConf/controller/Scan/MDErgo1/defaultMap.kll
-//    MDErgo1RightHand
-//      /srv/KiiConf/controller/Scan/MDErgo1/rightHand.kll
-//    MDErgo1Slave1
-//      /srv/KiiConf/controller/Scan/MDErgo1/slave1.kll
-//    MDErgo1LeftHand
-//      /srv/KiiConf/controller/Scan/MDErgo1/leftHand.kll
+//    ColemakSymbolModErgo
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/defaultMap.kll
+//    ColemakSymbolModErgoRightHand
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/rightHand.kll
+//    ColemakSymbolModErgoSlave1
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/slave1.kll
+//    ColemakSymbolModErgoLeftHand
+//      /srv/KiiConf/controller/Scan/ColemakSymbolModErgo/leftHand.kll
 // - Default Layer -
-//    MDErgo1
-//      MDErgo1-Default-0.kll
+//    ColemakSymbolModErgo
+//      ColemakSymbolModErgo-Default-0.kll
 //    lcdFuncMap
 //      /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 // - Partial Layers -
 //    Layer 1
-//     MDErgo1
-//       MDErgo1-Default-1.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-1.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 2
-//     MDErgo1
-//       MDErgo1-Default-2.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-2.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 3
-//     MDErgo1
-//       MDErgo1-Default-3.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-3.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 //    Layer 4
-//     MDErgo1
-//       MDErgo1-Default-4.kll
+//     ColemakSymbolModErgo
+//       ColemakSymbolModErgo-Default-4.kll
 //     lcdFuncMap
 //       /srv/KiiConf/controller/kll/layouts/lcdFuncMap.kll
 
@@ -1136,11 +1136,11 @@ layer4_tl_0x08, layer4_tl_0x09, layer4_tl_0x0A, layer4_tl_0x0B, layer4_tl_0x0C, 
 // Index 0: Default map
 // Index n: Additional layers
 const Layer LayerIndex[] = {
-	Layer_IN( default_scanMap, "D: MDErgo1 + lcdFuncMap", 0x02 ),
-	Layer_IN( layer1_scanMap, "1: MDErgo1 + lcdFuncMap", 0x02 ),
-	Layer_IN( layer2_scanMap, "2: MDErgo1 + lcdFuncMap", 0x0C ),
-	Layer_IN( layer3_scanMap, "3: MDErgo1 + lcdFuncMap", 0x0D ),
-	Layer_IN( layer4_scanMap, "4: MDErgo1 + lcdFuncMap", 0x08 ),
+	Layer_IN( default_scanMap, "D: ColemakSymbolModErgo + lcdFuncMap", 0x02 ),
+	Layer_IN( layer1_scanMap, "1: ColemakSymbolModErgo + lcdFuncMap", 0x02 ),
+	Layer_IN( layer2_scanMap, "2: ColemakSymbolModErgo + lcdFuncMap", 0x0C ),
+	Layer_IN( layer3_scanMap, "3: ColemakSymbolModErgo + lcdFuncMap", 0x0D ),
+	Layer_IN( layer4_scanMap, "4: ColemakSymbolModErgo + lcdFuncMap", 0x08 ),
 };
 
 

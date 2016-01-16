@@ -1,10 +1,10 @@
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "Joseph Wynn";
 Base = "Blank";
-Date = "2015-09-12";
+Date = "2016-01-16";
 Generator = "KIICONF 0.2";
 KLL = "0.3c";
 Layout = "Default";
-Name = "MDErgo1";
+Name = "ColemakSymbolModErgo";
 Version = "0.1";
 
 U"ESC" : U"F11";
