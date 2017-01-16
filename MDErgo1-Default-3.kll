@@ -1,13 +1,12 @@
-Author = "Joseph Wynn";
+Author = "HaaTa (Jacob Alexander) & Joseph Wynn";
 Base = "Blank";
-Date = "2016-01-16";
+Date = "2017-01-14";
 Generator = "KIICONF 0.2";
 KLL = "0.3c";
 Layout = "Default";
-Name = "ColemakSymbolModErgo";
+Name = "MDErgo1";
 Version = "0.1";
 
-U"FUNCTION2" : U"FUN4";
 U"U" : U"7";
 U"I" : U"8";
 U"O" : U"9";
@@ -16,7 +15,6 @@ U"J" : U"4";
 U"K" : U"5";
 U"L" : U"6";
 U"SEMICOLON" : '+';
-U"FUNCTION7" : U"FUN4";
 U"M" : U"1";
 U"COMMA" : U"2";
 U"PERIOD" : U"3";
