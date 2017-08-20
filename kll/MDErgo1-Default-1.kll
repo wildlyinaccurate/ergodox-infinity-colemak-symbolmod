@@ -48,4 +48,8 @@ U"M" : '&';
 U"COMMA" : '*';
 U"PERIOD" : '(';
 U"SLASH" : ')';
+U"DOWN" : U"HOME";
+U"UP" : U"PAGEDOWN";
+U"RIGHT" : U"PAGEUP";
+U"RGUI" : U"END";
 

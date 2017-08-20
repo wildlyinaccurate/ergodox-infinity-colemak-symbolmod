@@ -1320,6 +1320,10 @@
                 "0": {
                     "key": "LEFT",
                     "label": "\u2190"
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -1333,6 +1337,10 @@
                 "0": {
                     "key": "DOWN",
                     "label": "\u2193"
+                },
+                "1": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 },
                 "3": {
                     "key": "PERIOD",
@@ -1351,6 +1359,10 @@
                     "key": "UP",
                     "label": "\u2191"
                 },
+                "1": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
+                },
                 "3": {
                     "key": "ENTER",
                     "label": "\u21b5"
@@ -1367,6 +1379,10 @@
                 "0": {
                     "key": "RIGHT",
                     "label": "\u2192"
+                },
+                "1": {
+                    "key": "END",
+                    "label": "END"
                 }
             }
         }
