@@ -24,6 +24,10 @@
                 "1": {
                     "key": "F11",
                     "label": "F11"
+                },
+                "2": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -41,6 +45,10 @@
                 "1": {
                     "key": "F5",
                     "label": "F5"
+                },
+                "2": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -58,6 +66,10 @@
                 "1": {
                     "key": "F4",
                     "label": "F4"
+                },
+                "2": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -75,6 +87,10 @@
                 "1": {
                     "key": "F3",
                     "label": "F3"
+                },
+                "2": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -92,6 +108,10 @@
                 "1": {
                     "key": "F2",
                     "label": "F2"
+                },
+                "2": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -109,6 +129,10 @@
                 "1": {
                     "key": "F1",
                     "label": "F1"
+                },
+                "2": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -369,8 +393,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -643,8 +667,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -730,6 +754,10 @@
                 "1": {
                     "key": "F9",
                     "label": "F9"
+                },
+                "2": {
+                    "key": "CONS:BRIGHTNESSDECREMENT",
+                    "label": "SCRN-"
                 }
             }
         },
@@ -747,6 +775,10 @@
                 "1": {
                     "key": "F10",
                     "label": "F10"
+                },
+                "2": {
+                    "key": "CONS:BRIGHTNESSINCREMENT",
+                    "label": "SCRN+"
                 }
             }
         },
@@ -1262,10 +1294,6 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
-                },
-                "2": {
-                    "key": "P0",
-                    "label": "P0"
                 }
             }
         },
@@ -1277,8 +1305,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },

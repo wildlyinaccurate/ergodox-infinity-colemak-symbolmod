@@ -7,6 +7,12 @@ Layout = "Default";
 Name = "MDErgo1";
 Version = "0.1";
 
+U"ESC" : CONS"SCANNEXTTRACK";
+U"5" : CONS"PAUSEPLAY";
+U"4" : CONS"SCANPREVIOUSTRACK";
+U"3" : CONS"VOLUMEUP";
+U"2" : CONS"VOLUMEDOWN";
+U"1" : CONS"MUTE";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
@@ -22,6 +28,8 @@ U"V" : U"V";
 U"C" : U"C";
 U"X" : U"X";
 U"Z" : U"Z";
+U"9" : CONS"BRIGHTNESSDECREMENT";
+U"0" : CONS"BRIGHTNESSINCREMENT";
 U"Y" : U"Y";
 U"U" : U"U";
 U"I" : U"I";
@@ -37,5 +45,4 @@ U"M" : U"M";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
 U"SLASH" : U"SLASH";
-U"SPACE" : U"P0";
 
