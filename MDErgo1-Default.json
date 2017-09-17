@@ -24,10 +24,6 @@
                 "1": {
                     "key": "F11",
                     "label": "F11"
-                },
-                "2": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 }
             }
         },
@@ -47,8 +43,8 @@
                     "label": "F5"
                 },
                 "2": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -68,8 +64,8 @@
                     "label": "F4"
                 },
                 "2": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -89,8 +85,8 @@
                     "label": "F3"
                 },
                 "2": {
-                    "key": "CONS:VOLUMEUP",
-                    "label": "VOL+"
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -110,8 +106,8 @@
                     "label": "F2"
                 },
                 "2": {
-                    "key": "CONS:VOLUMEDOWN",
-                    "label": "VOL-"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -131,8 +127,8 @@
                     "label": "F1"
                 },
                 "2": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
